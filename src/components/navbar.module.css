@@ -1,0 +1,12 @@
+@media only screen and (min-width: 600px) {
+  .cBrandLogo {
+    padding-left: 20px!important;
+  }
+}
+
+.icon{
+    border-style: none;
+    height: 3rem;
+    line-height: 0rem;
+    vertical-align: text-top;
+}
